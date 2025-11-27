@@ -1,7 +1,6 @@
 from app import app, socketio
 import logging
 import sys
-omlort
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
